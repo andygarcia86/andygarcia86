@@ -4,12 +4,18 @@ My name is Andy Garcia, no no I am not that Andy Garcia from the films :) I am t
 
 Knowledge & Skill Areas: Accomplished in all areas of software development including, requirements analysis, architecture and design application, coding, testing, debugging, installations, troubleshooting, maintenance, and upgrades. Experienced in Project Management through the understanding of software development lifecycle methodologies. Full Stack Developer and Team Leader, mainly specialized in Web-based applications, RESTful API and Databases design and development, implementing flexible solutions that support frequent UI and functionalities changes. 
 
-- 🔭 I’m currently working on **Python Flask**
-- 🌱 I’m currently learning **AWS Continuous Delivery Pipeline**
+- 🔭 I’m currently working on **.Net Core and Vue**
+- 🌱 I’m currently learning **Microsoft Azure and TeamCity**
 
 ## This is where I've worked during the last years
 
-_[Tideily](https://www.tideily.com). Mar 2019 - Present_
+_[BuildingLink](https://www.tideily.com). Dec 2020 - Present_
+
+**SENIOR SOFTWARE ENGINEER**
+
+Woring as a full-stack engineer.
+
+_[Tideily](https://www.tideily.com). Mar 2019 - Dec 2020_
 
 **SENIOR SOFTWARE ENGINEER**
 
