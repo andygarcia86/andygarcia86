@@ -9,7 +9,7 @@ Knowledge & Skill Areas: Accomplished in all areas of software development inclu
 
 ## This is where I've worked during the last years
 
-_[BuildingLink](https://www.tideily.com). Dec 2020 - Present_
+_[BuildingLink](https://buildinglink.com). Dec 2020 - Present_
 
 **SENIOR SOFTWARE ENGINEER**
 
