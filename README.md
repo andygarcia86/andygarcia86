@@ -13,7 +13,7 @@ _[BuildingLink](https://buildinglink.com). Dec 2020 - Present_
 
 **SENIOR SOFTWARE ENGINEER**
 
-Woring as a full-stack engineer. Working with .Net Core for the server side, Vue for the client side and MS SQL Server for database.
+Working as a full-stack engineer. Working with .Net Core for the server side, Vue for the client side and MS SQL Server for database. Migrating a huge monolithic application to microservices.
 
 _[Tideily](https://www.tideily.com). Mar 2019 - Dec 2020_
 
