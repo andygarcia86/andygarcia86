@@ -15,23 +15,11 @@ _[BuildingLink](https://buildinglink.com). Dec 2020 - Present_
 
 Working as a full-stack engineer. Working with .Net Core for the server side, Vue for the client side and MS SQL Server for database. Migrating a huge monolithic application to microservices.
 
-_[Tideily](https://www.tideily.com). Mar 2019 - Nov 2020_
+_[Tideily](https://www.tideily.com). Jan 2015 - Nov 2020_
 
 **SENIOR SOFTWARE ENGINEER**
 
 Over the years, I've spent most of my time as a full-stack engineer and technical leader, managing a team of software developers, and leading the implementation of most of our products.
-
-_AraneaTech. Feb 2016 - Mar 2019_
-
-**SENIOR SOFTWARE ENGINEER**
-
-I've been a multi-tasking entrepreneur, Project owner, manager, leader, and Full Stack Developer, collaborating with small multidisciplinary teams in hundreds of small and medium projects for companies such as IBM, DELL, G4S, SunTrust, among others.
-
-_Laura Software. Jan 2015 - Feb 2016_
-
-**SENIOR WEB DEVELOPER**
-
-Web Application Developer to "Fortune 500".
 
 _Empresa de Gases Industriales. Jul 2012 - Jan 2015_
 
