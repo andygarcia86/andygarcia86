@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Andy Garcia, no no I am not that Andy Garcia from the films :) I am the Senior Software Engineer and team player with a B.S. Degree in Computer Science and 10 years of Software Development experience. Strong educational background in programming and vast experience using cutting edge development tools; dedicated to maintaining up-to-date industry knowledge about the latest technologies. Speak fluent English, basic French, and native Spanish.
+My name is Andy Garcia, no no I am not that Andy Garcia from the films :) I am the Senior Software Engineer and team player with a B.S. Degree in Computer Science with more than 10 years of Software Development experience. Strong educational background in programming and vast experience using cutting edge development tools; dedicated to maintaining up-to-date industry knowledge about the latest technologies. Speak fluent English, and native Spanish.
 
 Knowledge & Skill Areas: Accomplished in all areas of software development including, requirements analysis, architecture and design application, coding, testing, debugging, installations, troubleshooting, maintenance, and upgrades. Experienced in Project Management through the understanding of software development lifecycle methodologies. Full Stack Developer and Team Leader, mainly specialized in Web-based applications, RESTful API and Databases design and development, implementing flexible solutions that support frequent UI and functionalities changes. 
 
-- 🔭 I’m currently working on **.Net Core and Vue ans MS SQL Server**
-- 🌱 I’m currently learning **Microsoft Azure and TeamCity**
+- 🔭 I’m currently working on **.Net Core, Vue and MS SQL Server**
+- 🌱 I’m currently learning **AWS**
 
 ## This is where I've worked during the last years
 
