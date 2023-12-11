@@ -6,6 +6,7 @@ Knowledge & Skill Areas: Accomplished in all areas of software development inclu
 
 - 🔭 I’m currently working on **.Net Core, Vue and MS SQL Server**
 - 🌱 I’m currently learning **AWS**
+- ⚡ I love to read
 
 ## This is where I've worked during the last years
 
@@ -33,7 +34,7 @@ _Empresa de Productos Lacteos Camaguey. Sep 2011 - May 2012_
 
 **BACHELOR OF SCIENCE (B.S.), INFORMATION TECHNOLOGY**
 
-_University of Camaguey, Cuba. 2011._
+_University of Camaguey, Cuba. 2011. 3.53 GPA_
 
 
 📫  You can find me on [LinkedIn](https://www.linkedin.com/in/andygarciabarreiro/).
