@@ -4,8 +4,8 @@ My name is Andy Garcia, no no I am not that Andy Garcia from the films :) I am t
 
 Knowledge & Skill Areas: Accomplished in all areas of software development including, requirements analysis, architecture and design application, coding, testing, debugging, installations, troubleshooting, maintenance, and upgrades. Experienced in Project Management through the understanding of software development lifecycle methodologies. Full Stack Developer and Team Leader, mainly specialized in Web-based applications, RESTful API and Databases design and development, implementing flexible solutions that support frequent UI and functionalities changes. 
 
-- 🔭 I’m currently working on **.Net Core, Vue and MS SQL Server**
-- 🌱 I’m currently learning **AWS**
+- 🔭 I’m currently working on **.Net Core, Vue and PostgreSQL**
+- 🌱 I’m currently learning **ML / AWS**
 - ⚡ I love to read
 
 ## This is where I've worked during the last years
@@ -14,7 +14,7 @@ _[BuildingLink](https://buildinglink.com). Dec 2020 - Present_
 
 **SENIOR SOFTWARE ENGINEER**
 
-Working as a full-stack engineer. Working with .Net Core for the server side, Vue for the client side and MS SQL Server for database. Migrating a huge monolithic application to microservices.
+Working as a full-stack engineer. Working with .Net Core for the server side, Vue 2 and 3 for the client side and MS SQL Server / PostgreSQL for database. Migrating a huge monolithic application to microservices.
 
 _[Tideily](https://www.tideily.com). Jan 2015 - Nov 2020_
 
